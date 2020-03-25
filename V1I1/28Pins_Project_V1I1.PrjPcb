@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
-UniqueID=98275923-A311-4920-ABB5-C284C833B4BE
+UniqueID=ACD38083-DB46-4215-A26B-C8AE47B6B36A
 Description=FIXED 5V
 AllowFabrication=0
 ParameterCount=0
@@ -170,7 +170,7 @@ Variation5=Designator=LINK3|UniqueId=\JMPQLUMI|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
-UniqueID=4616B7DE-EB26-4ABA-B0AD-F7FDEBC26772
+UniqueID=78AFF310-F68D-4ED5-99EA-45A001F3CECB
 Description=5V/3V3
 AllowFabrication=0
 ParameterCount=0
